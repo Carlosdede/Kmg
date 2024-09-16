@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Camisa Básica Preta",
+      "price": 39.99,
+      "image": "https://via.placeholder.com/150",
+      "description": "Uma camisa preta básica para todas as ocasiões.",
+      "stock": 10
+    },
+    {
+      "id": 2,
+      "name": "Camisa Básica Branca",
+      "price": 39.99,
+      "image": "https://via.placeholder.com/150",
+      "description": "Uma camisa branca básica para o dia a dia.",
+      "stock": 15
+    },
+    {
+      "id": 3,
+      "name": "Camisa Polo Azul",
+      "price": 49.99,
+      "image": "https://via.placeholder.com/150",
+      "description": "Camisa polo azul para um look casual.",
+      "stock": 8
+    },
+    {
+      "id": 4,
+      "name": "Camisa Polo Vermelha",
+      "price": 49.99,
+      "image": "https://via.placeholder.com/150",
+      "description": "Camisa polo vermelha para momentos descontraídos.",
+      "stock": 5
+    },
+    {
+      "id": 5,
+      "name": "Camisa Social Azul",
+      "price": 59.99,
+      "image": "https://via.placeholder.com/150",
+      "description": "Camisa social azul para eventos formais.",
+      "stock": 3
+    },
+    {
+      "id": 6,
+      "name": "Camisa Social Branca",
+      "price": 59.99,
+      "image": "https://via.placeholder.com/150",
+      "description": "Camisa social branca elegante para ocasiões especiais.",
+      "stock": 7
+    },
+    {
+      "id": 4,
+      "name": "Camisa Polo Vermelha",
+      "price": 49.99,
+      "image": "https://via.placeholder.com/150",
+      "description": "Camisa polo vermelha para momentos descontraídos.",
+      "stock": 5
+    },
+    {
+      "id": 5,
+      "name": "Camisa Social Azul",
+      "price": 59.99,
+      "image": "https://via.placeholder.com/150",
+      "description": "Camisa social azul para eventos formais.",
+      "stock": 3
+    },
+    {
+      "id": 6,
+      "name": "Camisa Social Branca",
+      "price": 59.99,
+      "image": "https://via.placeholder.com/150",
+      "description": "Camisa social branca elegante para ocasiões especiais.",
+      "stock": 7
+    }
+  ]
+}
