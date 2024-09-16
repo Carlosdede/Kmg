@@ -1,5 +1,6 @@
 # React + Vite
-![tela catalogo](https://github.com/user-attachments/assets/5fdf70e1-533e-4780-b19e-d4e31fa4065e)
+
+![WhatsApp Image 2024-09-12 at 21 51 12](https://github.com/user-attachments/assets/59f40481-7507-4bf1-ab78-ce2e552ae8e8)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
